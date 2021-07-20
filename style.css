@@ -196,6 +196,7 @@ footer p {
   .btn-submit {
     width: 35%;
     font-size: 1.1rem;
+    margin-top: 0rem;
   }
 }
 
